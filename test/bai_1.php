@@ -40,5 +40,5 @@ $sum += $i;
 }
 echo "$sum";
 }
-echo show_prime($a, $b);
+ show_prime($a, $b);
 
